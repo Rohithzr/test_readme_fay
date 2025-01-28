@@ -3,8 +3,8 @@ Your work, on Autopilot.
 
 <details>
 
-![Termux Logo](https://user-images.githubusercontent.com/72879799/153904003-d7dee710-6552-4d23-a803-7a9a0ba67d92.png#gh-dark-mode-only)
-![Termux Logo](https://user-images.githubusercontent.com/72879799/153904095-9d78a019-8495-4035-8174-e3da8e4dd66b.png#gh-light-mode-only)
+<img src="assets/fay.png#gh-light-mode-only" alt="Fay Logo" style="width: 180px;">
+<img src="assets/fay_white.png#gh-dark-mode-only" alt="Fay Logo" style="width: 180px;">
 
 ### Category
 Productivity, Research, General purpose
@@ -18,6 +18,6 @@ Fay is an autonomous AI agent designed to handle complex tasks seamlessly and en
 
 ### Links
 - [Web](https://fay.work/)
-- [Substack] (https://fayai.substack.com)
+- [Substack](https://fayai.substack.com)
 
 </details>
